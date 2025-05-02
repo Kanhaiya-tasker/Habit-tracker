@@ -1,7 +1,14 @@
-import HabitTracker from './HabitTracker';
+import HabitTrack from './HabitTrack';
 
 export default function Page() {
-  return <HabitTracker />;
+  return <HabitTrack />;
 }
+
+
+
+
+
+
+
 
 
